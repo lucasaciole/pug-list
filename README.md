@@ -8,3 +8,5 @@ A list of cute pugs
 3. <img src="https://pics.me.me/yoda-pug-with-pug-vader-p-11204965.png" height="200" />
 
 4. <img src="https://livinginmultipleworlds.files.wordpress.com/2013/10/puglet-in-frog-costume.jpg" height="200" />
+
+5. <img src="https://preview.funkypigeon.com/dsmo/streamimage.aspx?set=Card_PugLife_PassedExams_Nerd_P_lowres&t=CONGRATS%20NAME&pw=323&co=100&ac=B964D162EAD7195DC9796A6253615889" height="200" />
